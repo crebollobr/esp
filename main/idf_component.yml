@@ -1,0 +1,4 @@
+dependencies:
+  idf: ">=5.3"                          # ESP-DL 3.x exige IDF 5.3+
+  espressif/esp32-camera: "^2.1.0"      # driver da camera
+  espressif/pedestrian_detect: "^0.3.2" # modelo de pessoas (ja puxa o esp-dl)

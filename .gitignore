@@ -1,0 +1,7 @@
+build/
+managed_components/
+sdkconfig
+sdkconfig.old
+teste_videos.zip
+teste_videos/quadros/
+__pycache__/
